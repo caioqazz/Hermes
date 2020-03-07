@@ -1,0 +1,2 @@
+car shop;18890;2011;usado;Vermelho;HDK1157;1.0;2;Total Flex;72.000
+jm automoveis;13900;2008;usado;Prata;GRC5485;1.0;2;Total Flex;83.000

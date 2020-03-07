@@ -1,0 +1,2 @@
+jm automoveis;43900;2010;usado;Prata;GRR0617;2.0;4;Total Flex;73.000
+auto shopping;31000;2008;usado;Preto;GSC-2729;1.6;4;Total Flex;169.000

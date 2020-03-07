@@ -1,0 +1,8 @@
+Hyundai HB20;32900;2013;usado;Prata;HML-2197;1.0;4;Total Flex;95000km
+Fiat UNO WAY;18990;2012;usado;Preto;GZD-3503;1.4;4;Total Flex;41000km
+VolksWagen GOL TREND G5;18990;2009;usado;Prata;GRA7995;1.0;4;Total Flex;122.000
+Fiat STRADA WORKING 1.4;26990;2012;usado;Prata;GLD-2241;1.4;2;Total Flex;117.000
+Ford KA PULSE;18900;2013;usado;Prata;GLJ-7130;1.0;2;Total Flex;30.783
+Toyota COROLLA SEDAN XEI 1.8;31000;2008;usado;Preto;GSC-2729;1.6;4;Total Flex;169.000
+Renault SANDERO EXPRESSION;21900;2009;usado;Preto;GYG-0838;1.6;4;Total Flex;88.229
+Fiat MOBI EVO EASY;30330;2018;novo;Branco;0000000;1.0;4;Total Flex;0

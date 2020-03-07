@@ -1,0 +1,29 @@
+auto shopping
+car shop
+Chevrolet ONIX
+Chevrolet PRISMA
+Fiat MOBI EVO EASY ON
+Fiat MOBI EVO EASY
+Fiat MOBI EVO WAY
+Fiat Palio ATTRACTIVE
+Fiat STRADA ADVENTURE LOCKER
+Fiat STRADA TREKKING
+Fiat STRADA WORKING
+Fiat UNO ATTRACTIVE
+Fiat UNO WAY
+Ford KA PULSE
+Ford KA
+Hyundai HB20 COMFORT PLUS
+Hyundai HB20
+IdealCarros
+jm automoveis
+Renault SANDERO EXPRESSION
+Renault SANDERO PRIVLEGE
+RobCarros
+Toyota Corolla
+Toyota COROLLA SEDAN DUAL VVT-I GLI
+Toyota COROLLA SEDAN XEI
+VolksWagen GOL G5
+VolksWagen GOL TEC CITY
+VolksWagen GOL TREND G5
+VolksWagen Gol

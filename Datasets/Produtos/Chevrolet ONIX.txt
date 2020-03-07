@@ -1,0 +1,2 @@
+IdealCarros;30000;2014;usado;Prata;HGP-0675;1.0;4;Gasolina;25000
+RobCarros;35200;2014;usado;Prata;HFV-2134;1.0;4;Gasolina;20000

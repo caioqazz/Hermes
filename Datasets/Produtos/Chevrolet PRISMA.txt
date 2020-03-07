@@ -1,0 +1,2 @@
+RobCarros;56000;2016;usado;Branco;RRT-3455;1.4;4;Total Flex;34000
+IdealCarros;54900;2016;usado;Prata;TTR-5566;1.4;4;Total Flex;25000

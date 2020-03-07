@@ -1,0 +1,2 @@
+auto shopping;18990;2012;usado;Preto;GZD-3503;1.4;4;Total Flex;41000km
+jm automoveis;20900;2011;usado;Prata;GTM1260;1.0;4;Total Flex;55.000

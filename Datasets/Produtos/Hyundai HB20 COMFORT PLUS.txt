@@ -1,0 +1,2 @@
+car shop;33600;2014;usado;Preto;GTW9646;1.0;4;Total Flex;51.000
+jm automoveis;34900;2014;usado;Preto;GLV7967;1.0;4;Total Flex;50.000

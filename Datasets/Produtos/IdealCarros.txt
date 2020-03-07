@@ -1,0 +1,6 @@
+Chevrolet ONIX;30000;2014;usado;Prata;HGP-0675;1.0;4;Gasolina;25000
+Hyundai HB20;40000;2014;usado;Prata;GGH-3322;1.6;4;Gasolina;25000
+Chevrolet PRISMA;54900;2016;usado;Prata;TTR-5566;1.4;4;Total Flex;25000
+Toyota Corolla;100900;2018;novo;Preto;DVA-3455;2.0;4;Total Flex;0
+Fiat Palio ATTRACTIVE;40900;2017;novo;Prata;GGT-0998;1.0;4;Total Flex;0
+VolksWagen Gol;32900;2015;novo;Branco;JWG-0089;1.6;4;Total Flex;0
